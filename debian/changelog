@@ -1,0 +1,5 @@
+moxa-rclocal (1.0.0+deb9) stretch; urgency=low
+
+  * Initial release.
+
+ -- Wes Huang <Wes.Huang@moxa.com>  Thu, 22 Feb 2018 09:33:09 +0800
