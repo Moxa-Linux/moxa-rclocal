@@ -1,0 +1,13 @@
+Source: moxa-rclocal
+Section: utils
+Priority: required
+Maintainer: Wes Huang (黃淵河) <Wes.Huang@moxa.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://www.moxa.com/
+
+Package: moxa-rclocal
+Architecture: all
+Depends: ${misc:Depends}
+Description: Moxa rc.local service
+ Moxa's rc.local systemd service.
